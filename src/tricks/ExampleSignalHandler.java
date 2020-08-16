@@ -1,3 +1,7 @@
+/*
+* ВОПРОСЫ
+* Как отключить SignalHandler в конце выполнения метода main?
+*/
 package tricks;
 
 import sun.misc.Signal;

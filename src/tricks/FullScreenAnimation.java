@@ -1,3 +1,10 @@
+/*
+* ВОПРОСЫ
+* 1. Как выйти из полноэкранного режима терминала, при прерывании программы?
+* 2. Почему, если выполнить пункт "4. Full screen animation Bottom"
+*    после пункта "3. Full screen animation Top"
+*    то Bottom-анимация срабатывает некорректно.
+*/
 package tricks;
 
 import java.util.Scanner;
